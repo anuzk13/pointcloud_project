@@ -1,0 +1,6 @@
+
+colmap_scans/
+
+*.bin
+
+*.ini
